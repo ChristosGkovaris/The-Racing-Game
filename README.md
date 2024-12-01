@@ -1,6 +1,6 @@
 # The Racing Game
 
-Welcome to the "The Racing Game", a competitive simulation where players and computer-controlled racers compete on a dynamic track using different vehicle types, each with unique characteristics.
+Welcome to the "The Racing Game", a competitive simulation where players and computer-controlled racers compete on a dynamic track using different vehicle types, each with unique characteristics. This project was implemented during the second semester, in the course MYY205 of the curriculum of the University of Ioannina. The final grade of the project is 110 out of 100.
 
 
 ## Game Instructions
